@@ -1,13 +1,14 @@
 ---
 name: Bug
 about: Reporte um problema para ajudar a melhorar o projeto
+labels: Bug
 
 ---
 
 ## **Aplicação**
 <!-- A qual aplicação o problema está relacionado? -->
-- [ ] Site
-- [ ] App
+- [ ] Site - [`Minhacps/votacidade-site`](https://github.com/Minhacps/votacidade-site)
+- [ ] App - [`Minhacps/votacidade-app`](https://github.com/Minhacps/votacidade-app)
 
 ## **Tipo de bug**
 <!-- Escolha o tipo de bug -->
@@ -35,3 +36,10 @@ about: Reporte um problema para ajudar a melhorar o projeto
 
 ### **Evidências**
 <!-- Inclua evidências que possam ajudar a demonstrar o problema. -->
+
+## **Issues relacionadas**
+<!--
+Informe as issues que são relacionadas.
+
+Ex.: Relacionado a #123
+-->
