@@ -17,5 +17,5 @@ Caso esta Pull Request resolva uma issue existente, vincule-as com uma palavra-c
 Ex.: Resolve #123
 
 Mais detalhes:
-https://help.github.com/pt/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword
+https://help.github.com/pt/articles/closing-issues-using-keywords#linking-a-pull-request-to-an-issue-using-a-keyword
 -->
