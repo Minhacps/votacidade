@@ -1,14 +1,20 @@
-# Vota Cidade
+<h1 align="center">
+  Vota Cidade
+</h1>
 
-O projeto tem como objetivo oferecer uma ferramenta onde eleitores(as) possam encontrar candidatos(as) que se alinhem com seus ideais.
+O projeto tem como objetivo oferecer uma ferramenta onde eleitores(as) possam conhecer candidatos(as) que se alinhem aos seus ideais.
 
-Fazemos isso através de um questionário onde ambos respondem e, com base nas respostas, criamos uma classificação de afinidade de opiniões.
+Isso é feito através de um questionário o qual ambos respondem e, com base nas respostas, criamos uma classificação de afinidade de opiniões.
 
-## Aplicações
+## Vota Cidade
 
-O projeto é composto por 2 (duas) aplicações em repositórios distintos:
-- [Vota Cidade - Site](https://github.com/Minhacps/votacidade-site)
-- [Vota Cidade - App](https://github.com/Minhacps/votacidade-app)
+Repositório principal onde gerenciamos as demandas das aplicações do Vota Cidade.
+
+## Estrutura da iniciativa
+
+- [Vota Cidade](https://github.com/Minhacps/votacidade)
+  - [Vota Cidade - Site](https://github.com/Minhacps/votacidade-site)
+  - [Vota Cidade - App](https://github.com/Minhacps/votacidade-app)
 
 ## Contribuição
 
