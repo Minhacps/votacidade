@@ -1,25 +1,25 @@
-<h1 align="center">
-  Vota Cidade
-</h1>
+<p align="center">
+  <img alt="Vota Cidade" src="./.github/logo-vota-horizontal.svg" width="300">
+</p>
+
+# Proposta
 
 O projeto tem como objetivo oferecer uma ferramenta onde eleitores(as) possam conhecer candidatos(as) que se alinhem aos seus ideais.
 
 Isso é feito através de um questionário o qual ambos respondem e, com base nas respostas, criamos uma classificação de afinidade de opiniões.
 
-## Vota Cidade
+# Arquitetura
 
-Repositório principal onde gerenciamos as demandas das aplicações do Vota Cidade.
+## [Site - Vota Cidade](https://github.com/Minhacps/votacidade-site)
 
-## Estrutura da iniciativa
+## [App - Vota Cidade](https://github.com/Minhacps/votacidade-app)
 
-- [Vota Cidade](https://github.com/Minhacps/votacidade)
-  - [Vota Cidade - Site](https://github.com/Minhacps/votacidade-site)
-  - [Vota Cidade - App](https://github.com/Minhacps/votacidade-app)
+# Contribuição
 
-## Contribuição
+Agradecemos por considerar contribuir com o Vota Cidade!
 
-Agradecemos por considerar contribuir com o Vota Cidade! Você encontra como fazê-lo em nosso [Guia de Contribuição](.github/CONTRIBUTING.md).
+Você encontra como fazê-lo em nosso [Guia de Contribuição](.github/CONTRIBUTING.md).
 
-## Licença
+# Licença
 
 O Vota Cidade é um software de código aberto licenciado sob a [Licença MIT](LICENSE.md).
