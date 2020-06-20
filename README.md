@@ -10,9 +10,11 @@ Isso é feito através de um questionário o qual ambos respondem e, com base na
 
 # Arquitetura
 
-## [Site - Vota Cidade](https://github.com/Minhacps/votacidade-site)
+## Site
+[Site - Vota Cidade](https://github.com/Minhacps/votacidade-site)
 
-## [App - Vota Cidade](https://github.com/Minhacps/votacidade-app)
+## Aplicação
+[App - Vota Cidade](https://github.com/Minhacps/votacidade-app)
 
 # Contribuição
 
