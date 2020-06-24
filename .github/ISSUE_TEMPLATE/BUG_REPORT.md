@@ -27,21 +27,21 @@ Informe o tipo de problema
 - Outro (Especifique, por favor)
 
 ## **Descrição**
-*Descreva o problema que você encontrou.*
+Descreva o problema que você encontrou.
 
 ### **Passos para reproduzir**
-*Descreva os passos para que o problema seja reproduzido.*
+Liste os passos para que o problema seja reproduzido.
 
 ### **Resultado atual**
-*Informe o resultado que acontece atualmente.*
+Informe o resultado que acontece atualmente.
 
 ### **Resultado esperado**
-*Informe o resultado que deveria acontecer.*
+Informe o resultado que deveria acontecer.
 
 ### **Evidências**
-*Inclua evidências que possam ajudar a demonstrar o problema.*
+Inclua evidências que possam ajudar a demonstrar o problema.
 
 ## **Issues relacionadas**
-*Informe as issues que são relacionadas.*
+Informe as issues que são relacionadas.
 
-*Ex.: Relacionado a #123*
+*Ex.: Relacionada a #<!-- ID da issue -->*
