@@ -6,40 +6,42 @@ labels: Bug
 ---
 
 ## **Aplicação**
-<!-- A qual aplicação o problema está relacionado? -->
-- [ ] Site - [`Minhacps/votacidade-site`](https://github.com/Minhacps/votacidade-site)
-- [ ] App - [`Minhacps/votacidade-app`](https://github.com/Minhacps/votacidade-app)
+A qual aplicação o problema está relacionado?
 
-## **Tipo de bug**
-<!-- Escolha o tipo de bug -->
-- [ ] Accessibilidade
-- [ ] Automação
-- [ ] Digitação
-- [ ] Funcional
-- [ ] Interrupção
-- [ ] Layout
-- [ ] Performance
-- [ ] Usabilidade
-- [ ] Outro (Especifique, por favor)
+- Site - [`Minhacps/votacidade-site`](https://github.com/Minhacps/votacidade-site)
+- App - [`Minhacps/votacidade-app`](https://github.com/Minhacps/votacidade-app)
+
+## **Tipo de problema**
+Informe o tipo de problema
+
+<!-- Deixe apenas um e apague os demais. -->
+
+- Accessibilidade
+- Automação
+- Digitação
+- Funcional
+- Interrupção
+- Layout
+- Performance
+- Usabilidade
+- Outro (Especifique, por favor)
 
 ## **Descrição**
-<!-- Descreva o problema que você encontrou. -->
+Descreva o problema que você encontrou.
 
 ### **Passos para reproduzir**
-<!-- Descreva os passos para que o problema seja reproduzido. -->
+Liste os passos para que o problema seja reproduzido.
 
 ### **Resultado atual**
-<!-- Informe o resultado que acontece atualmente. -->
+Informe o resultado que acontece atualmente.
 
 ### **Resultado esperado**
-<!-- Informe o resultado que deveria acontecer. -->
+Informe o resultado que deveria acontecer.
 
 ### **Evidências**
-<!-- Inclua evidências que possam ajudar a demonstrar o problema. -->
+Inclua evidências que possam ajudar a demonstrar o problema.
 
 ## **Issues relacionadas**
-<!--
 Informe as issues que são relacionadas.
 
-Ex.: Relacionado a #123
--->
+*Ex.: Relacionada a #<!-- ID da issue -->*
